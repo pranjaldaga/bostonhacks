@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"this is the first text","lexical":"this is the first text","properties":{"requestid":"97b9b7af-7dea-42a3-bc49-742863ed5884","MIDCONF":"1"}},"results":[{"scenario":"ulm","name":"this is the first text","lexical":"this is the first text","confidence":"0.4265511","properties":{"MIDCONF":"1"}}]}

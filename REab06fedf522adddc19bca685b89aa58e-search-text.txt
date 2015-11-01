@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"mckart","lexical":"mckart","properties":{"requestid":"76c4516e-dfdb-438a-a215-69c465850e92","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"mckart","lexical":"mckart","confidence":"0.1446058","properties":{"LOWCONF":"1"}}]}

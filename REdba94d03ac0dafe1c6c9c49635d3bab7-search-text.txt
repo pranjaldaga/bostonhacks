@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"neck hurt","lexical":"neck hurt","properties":{"requestid":"2839868e-82d4-45a7-86b8-370ce49a2c73","MIDCONF":"1"}},"results":[{"scenario":"ulm","name":"neck hurt","lexical":"neck hurt","confidence":"0.5082217","properties":{"MIDCONF":"1"}}]}

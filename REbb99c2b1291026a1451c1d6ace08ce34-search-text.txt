@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"comic art","lexical":"comic art","properties":{"requestid":"61e01716-32d3-494f-80bf-4931e9fd794d","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"comic art","lexical":"comic art","confidence":"0.1729919","properties":{"LOWCONF":"1"}}]}

@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"amiker","lexical":"amiker","properties":{"requestid":"02d11656-8c74-4c26-9fd8-adf456dd39ae","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"amiker","lexical":"amiker","confidence":"0.1097917","properties":{"LOWCONF":"1"}}]}

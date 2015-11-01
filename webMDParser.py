@@ -23,31 +23,31 @@ def parse(url, fileout):
     req = urllib2.Request(url, headers=hdr)
 
     page =urllib2.urlopen(req)
-    data=page.readlines()
+    data=page.readline()
 
     returning=[]
     currentLine=0
-    while "results_list" not in data[currentLine]:  currentLine+=1
-    currentLine+=1
+    while "results_list" not in data[currentLine]:
+	    currentLine+=1
     while "<li" in data[currentLine] or "</li" in data[currentLine]:
-         if "</li" in data[currentLine]:
-              currentLine+=1
-         else:
-              nameIndexStart=find2ndIndex(data[currentLine], ">")+2
-              nameIndexEnd=data[currentLine][nameIndexStart:].find("<")+nameIndexStart
-              name=data[currentLine][nameIndexStart:nameIndexEnd]
+		if "</li" in data[currentLine]:
+			currentLine+=1
+		else:
+			nameIndexStart=find2ndIndex(data[currentLine], ">")+2
+			nameIndexEnd=data[currentLine][nameIndexStart:].find("<")+nameIndexStart
+			name=data[currentLine][nameIndexStart:nameIndexEnd]
 
-              descriptionIndexStart=nameIndexEnd+find2ndIndex(data[currentLine][nameIndexEnd:],">")+2
-              descriptionIndexEnd=descriptionIndexStart+data[currentLine][descriptionIndexStart:].find("</p")
-              description=data[currentLine][descriptionIndexStart:descriptionIndexEnd]
-              returning.append(name)
-              returning.append(description)
-              currentLine+=1
+			descriptionIndexStart=nameIndexEnd+find2ndIndex(data[currentLine][nameIndexEnd:],">")+2
+			descriptionIndexEnd=descriptionIndexStart+data[currentLine][descriptionIndexStart:].find("</p")
+			description=data[currentLine][descriptionIndexStart:descriptionIndexEnd]
+			returning.append(name)
+			returning.append(description)
+			currentLine+=1
     json.dumps(returning)
 
 
     with open(fileout, "w") as outfile:
-   	outfile.write(json.dumps(returning))
+		outfile.write(json.dumps(returning))
 
 
 #test2=postunirest("recognizespeech", {"url" : "http://cf3de14e.ngrok.io/voice.mp3" })

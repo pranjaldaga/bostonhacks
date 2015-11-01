@@ -61,4 +61,4 @@ file.write(data)
 file.close()
 conn.close()
 px = Payload(data)
-print px.header["lexical"]
+#print px.header["lexical"]

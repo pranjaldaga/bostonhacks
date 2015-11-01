@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"and it hurts","lexical":"and it hurts","properties":{"requestid":"6bd48e97-9dc3-484e-b1cb-e5ec245a1f61","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"and it hurts","lexical":"and it hurts","confidence":"0.6675695","properties":{"HIGHCONF":"1"}}]}

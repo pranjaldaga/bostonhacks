@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"I should've left","lexical":"i should've left","properties":{"requestid":"ae3d6a92-9338-481c-bacd-2858ed935568","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"I should've left","lexical":"i should've left","confidence":"0.3487834","properties":{"LOWCONF":"1"}}]}

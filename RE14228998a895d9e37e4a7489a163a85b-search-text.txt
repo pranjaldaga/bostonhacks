@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"is a test","lexical":"is a test","properties":{"requestid":"f196e1bb-71c1-4496-9735-c430991e57bf","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"is a test","lexical":"is a test","confidence":"0.6909283","properties":{"HIGHCONF":"1"}}]}
