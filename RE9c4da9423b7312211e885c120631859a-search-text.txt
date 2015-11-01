@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"I burnt my tongue","lexical":"i burnt my tongue","properties":{"requestid":"b0c8aa5f-523b-4b45-8bf0-70b0fde8d091","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"I burnt my tongue","lexical":"i burnt my tongue","confidence":"0.6688585","properties":{"HIGHCONF":"1"}}]}

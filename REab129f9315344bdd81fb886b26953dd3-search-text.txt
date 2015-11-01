@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"upset stomach","lexical":"upset stomach","properties":{"requestid":"3be99efb-10ef-44c9-aeec-4ab80b09c646","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"upset stomach","lexical":"upset stomach","confidence":"0.3146253","properties":{"LOWCONF":"1"}}]}

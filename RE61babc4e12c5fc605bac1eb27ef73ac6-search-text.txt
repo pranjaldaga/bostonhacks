@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"I am injured","lexical":"i am injured","properties":{"requestid":"4e48e987-7db8-48a5-9f59-1304dff5c429","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"I am injured","lexical":"i am injured","confidence":"0.6225265","properties":{"HIGHCONF":"1"}}]}

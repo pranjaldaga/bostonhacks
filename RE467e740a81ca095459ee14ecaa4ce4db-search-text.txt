@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"my heart hurts","lexical":"my heart hurts","properties":{"requestid":"a6cc671f-1599-4c5a-955f-526dd0d1f571","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"my heart hurts","lexical":"my heart hurts","confidence":"0.8894261","properties":{"HIGHCONF":"1"}}]}

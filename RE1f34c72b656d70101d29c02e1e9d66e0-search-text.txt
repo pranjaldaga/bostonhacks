@@ -1,0 +1,21 @@
+{
+	"version":"3.0",
+	"header":
+		{"status":"success",
+		"scenario":"ulm",
+		"name":"headache fever upset stomach",
+		"lexical":"headache fever upset stomach",
+		"properties": {
+			"requestid":"64d2d215-203a-4a33-99f3-e3c063bd5371","LOWCONF":"1"
+		}
+	},
+	"results":[
+		{
+			"scenario":"ulm",
+			"name":"headache fever upset stomach",
+			"lexical":"headache fever upset stomach",
+			"confidence":"0.3531199",
+			"properties":{"LOWCONF":"1"}
+		}
+	]
+}

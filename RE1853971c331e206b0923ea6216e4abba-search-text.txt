@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"elijah and vomiting","lexical":"elijah and vomiting","properties":{"requestid":"c73ac93b-fa7f-4283-9bc4-ab5cd0219168","MIDCONF":"1"}},"results":[{"scenario":"ulm","name":"elijah and vomiting","lexical":"elijah and vomiting","confidence":"0.4236549","properties":{"MIDCONF":"1"}}]}

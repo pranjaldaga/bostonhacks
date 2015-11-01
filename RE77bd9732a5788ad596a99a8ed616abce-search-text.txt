@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"settegast ok bye","lexical":"settegast ok bye","properties":{"requestid":"3242ad5c-3fde-4f1f-b1a1-adf980a74bca","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"settegast ok bye","lexical":"settegast ok bye","confidence":"0.2715604","properties":{"LOWCONF":"1"}}]}

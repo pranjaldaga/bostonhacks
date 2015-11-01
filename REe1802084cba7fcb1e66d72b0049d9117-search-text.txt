@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"explosive l'actualite","lexical":"explosive l'actualite","properties":{"requestid":"611d175d-b449-4fa9-9b55-f43bef2b5a98","MIDCONF":"1"}},"results":[{"scenario":"ulm","name":"explosive l'actualite","lexical":"explosive l'actualite","confidence":"0.4952142","properties":{"MIDCONF":"1"}}]}

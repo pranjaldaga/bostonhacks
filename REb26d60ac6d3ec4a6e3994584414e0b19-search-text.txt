@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"upset stomach see her","lexical":"upset stomach see her","properties":{"requestid":"b8545aeb-69e9-42ae-be34-1e1c9873c28b","MIDCONF":"1"}},"results":[{"scenario":"ulm","name":"upset stomach see her","lexical":"upset stomach see her","confidence":"0.4768006","properties":{"MIDCONF":"1"}}]}

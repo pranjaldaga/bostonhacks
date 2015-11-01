@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"asian vomiting","lexical":"asian vomiting","properties":{"requestid":"a273e39c-69b5-4161-ac6b-4a7c0857a632","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"asian vomiting","lexical":"asian vomiting","confidence":"0.2184588","properties":{"LOWCONF":"1"}}]}

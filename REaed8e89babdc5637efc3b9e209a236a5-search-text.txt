@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"head hurts","lexical":"head hurts","properties":{"requestid":"6dc9ca66-e37c-46c7-83a9-8376ce4dca5a","MIDCONF":"1"}},"results":[{"scenario":"ulm","name":"head hurts","lexical":"head hurts","confidence":"0.4582822","properties":{"MIDCONF":"1"}}]}

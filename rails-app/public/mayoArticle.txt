@@ -1,0 +1,12 @@
+<p>Most people with premature ventricular contractions (PVCs) and an otherwise normal heart won't need treatment. Rarely, if you have frequent, bothersome symptoms, you may be offered treatment to help you feel better, but PVCs are usually not harmful.</p>
+<p>In some cases, if you have underlying heart disease that could lead to more serious rhythm problems, you may need to make efforts to avoid triggers or perhaps take medications.</p>
+<ul>
+    <li><strong>Lifestyle changes.</strong> Eliminating common PVC triggers &mdash; such as caffeine or tobacco &mdash; can decrease the frequency and severity of your symptoms.</li>
+    <li>
+    <p><strong>Medications.</strong> Beta blockers &mdash; which are often used to treat high blood pressure and heart disease &mdash; can suppress premature contractions.</p>
+    <p>Other medications, such as calcium channel blockers, or anti-arrhythmic drugs, such as amiodarone (Cordarone, Pacerone) or flecainide, also may be used if you have ventricular tachycardia or very frequent premature ventricular contractions that interfere with your heart's function, causing severe symptoms. </p>
+    </li>
+    <li><strong>Radiofrequency catheter ablation.</strong> For premature ventricular contractions that don't respond to lifestyle changes or medications, your doctor may recommend ablation therapy. This procedure uses radiofrequency energy to destroy the area of heart tissue that is causing your irregular contractions.</li>
+</ul>
+
+

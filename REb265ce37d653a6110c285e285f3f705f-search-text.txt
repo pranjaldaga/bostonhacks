@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"I hurt myself","lexical":"i hurt myself","properties":{"requestid":"7cdcd357-6513-4e15-80b8-cd29aa4ab60f","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"I hurt myself","lexical":"i hurt myself","confidence":"0.7194715","properties":{"HIGHCONF":"1"}}]}

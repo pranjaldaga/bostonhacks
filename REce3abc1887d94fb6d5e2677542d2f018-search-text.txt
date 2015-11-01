@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"head injury","lexical":"head injury","properties":{"requestid":"8f9ea2a5-e22b-4412-9f4d-7abd4c12f414","MIDCONF":"1"}},"results":[{"scenario":"ulm","name":"head injury","lexical":"head injury","confidence":"0.5161138","properties":{"MIDCONF":"1"}}]}

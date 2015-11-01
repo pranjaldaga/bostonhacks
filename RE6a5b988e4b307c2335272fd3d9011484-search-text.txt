@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"if it ends on o'clock","lexical":"if it ends on o'clock","properties":{"requestid":"2e65f8a7-864c-4737-90c5-a73fe2e21a22","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"if it ends on o'clock","lexical":"if it ends on o'clock","confidence":"0.2884335","properties":{"LOWCONF":"1"}}]}

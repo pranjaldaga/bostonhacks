@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"this is the fastest car","lexical":"this is the fastest car","properties":{"requestid":"bb3f374d-1692-4a28-9a81-2ef08fe35f01","MIDCONF":"1"}},"results":[{"scenario":"ulm","name":"this is the fastest car","lexical":"this is the fastest car","confidence":"0.4382656","properties":{"MIDCONF":"1"}}]}

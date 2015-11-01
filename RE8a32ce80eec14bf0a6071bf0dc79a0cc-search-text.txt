@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"my big toe hurts","lexical":"my big toe hurts","properties":{"requestid":"5e432935-745b-497d-b1b5-856973bf26a9","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"my big toe hurts","lexical":"my big toe hurts","confidence":"0.7977617","properties":{"HIGHCONF":"1"}}]}

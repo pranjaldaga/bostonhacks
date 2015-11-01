@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"I am sick","lexical":"i am sick","properties":{"requestid":"ac2d0a97-24cf-4f42-aa34-0b50d5bf54f5","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"I am sick","lexical":"i am sick","confidence":"0.5455792","properties":{"HIGHCONF":"1"}}]}

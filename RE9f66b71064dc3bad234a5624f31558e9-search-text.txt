@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"t","lexical":"t","properties":{"requestid":"e3d9d393-5da8-4586-988b-b8e25ed03ec5","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"t","lexical":"t","confidence":"0.1401401","properties":{"LOWCONF":"1"}}]}

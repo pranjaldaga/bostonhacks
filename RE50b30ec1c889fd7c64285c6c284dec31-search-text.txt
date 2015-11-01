@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"I gotta boo boo","lexical":"i gotta boo boo","properties":{"requestid":"6822bac9-d619-4704-861b-4978c63c073d","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"I gotta boo boo","lexical":"i gotta boo boo","confidence":"0.6906406","properties":{"HIGHCONF":"1"}}]}

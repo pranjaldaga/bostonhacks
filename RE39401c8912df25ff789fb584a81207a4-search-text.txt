@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"scratchy throat","lexical":"scratchy throat","properties":{"requestid":"5bb8d0fc-3088-4eb1-b166-4728fbdc7268","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"scratchy throat","lexical":"scratchy throat","confidence":"0.5528035","properties":{"HIGHCONF":"1"}}]}

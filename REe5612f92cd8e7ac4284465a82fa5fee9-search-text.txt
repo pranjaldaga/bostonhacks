@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"I ate too much","lexical":"i ate too much","properties":{"requestid":"66fab109-f6f1-4e76-93d4-9a403dd5a9b2","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"I ate too much","lexical":"i ate too much","confidence":"0.743732","properties":{"HIGHCONF":"1"}}]}

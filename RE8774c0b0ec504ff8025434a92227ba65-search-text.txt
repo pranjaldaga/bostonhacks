@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"excessive flatulence","lexical":"excessive flatulence","properties":{"requestid":"17d6489f-58c0-4446-aef8-6506257340c9","MIDCONF":"1"}},"results":[{"scenario":"ulm","name":"excessive flatulence","lexical":"excessive flatulence","confidence":"0.4732025","properties":{"MIDCONF":"1"}}]}

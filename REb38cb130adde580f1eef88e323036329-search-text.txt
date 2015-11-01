@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"I broke my leg","lexical":"i broke my leg","properties":{"requestid":"8281d7eb-79fd-4eb6-8cce-9bde188a0cbf","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"I broke my leg","lexical":"i broke my leg","confidence":"0.8852772","properties":{"HIGHCONF":"1"}}]}

@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"headaches fatigue","lexical":"headaches fatigue","properties":{"requestid":"badac5bf-14c6-49eb-8fea-b384082e3fe9","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"headaches fatigue","lexical":"headaches fatigue","confidence":"0.3596612","properties":{"LOWCONF":"1"}}]}

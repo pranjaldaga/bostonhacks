@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"hand got smashed by hammer","lexical":"hand got smashed by hammer","properties":{"requestid":"fdf7d3b1-f524-4440-962d-e78bb8d6bb5b","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"hand got smashed by hammer","lexical":"hand got smashed by hammer","confidence":"0.7386565","properties":{"HIGHCONF":"1"}}]}

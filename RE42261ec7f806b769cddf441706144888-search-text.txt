@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"is it at","lexical":"is it at","properties":{"requestid":"7ad4b481-2f30-4a94-8031-2b76c4c3291e","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"is it at","lexical":"is it at","confidence":"0.6972043","properties":{"HIGHCONF":"1"}}]}

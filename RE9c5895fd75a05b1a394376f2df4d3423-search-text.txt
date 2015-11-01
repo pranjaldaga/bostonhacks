@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"the mental instability","lexical":"the mental instability","properties":{"requestid":"589a428e-8910-44c2-856c-84d9a09f8c00","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"the mental instability","lexical":"the mental instability","confidence":"0.5872492","properties":{"HIGHCONF":"1"}}]}

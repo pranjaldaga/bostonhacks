@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"runny nose","lexical":"runny nose","properties":{"requestid":"12e38ca2-607a-43da-81a4-15fe7b29973b","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"runny nose","lexical":"runny nose","confidence":"0.6898257","properties":{"HIGHCONF":"1"}}]}

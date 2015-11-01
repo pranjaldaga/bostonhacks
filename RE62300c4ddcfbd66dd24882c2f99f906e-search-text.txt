@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"runny nose and cough","lexical":"runny nose and cough","properties":{"requestid":"533c38e9-af08-47e9-b2d7-886ec43fab33","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"runny nose and cough","lexical":"runny nose and cough","confidence":"0.5414868","properties":{"HIGHCONF":"1"}}]}

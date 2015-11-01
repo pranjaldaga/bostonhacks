@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"I'm thirsty","lexical":"i'm thirsty","properties":{"requestid":"6eed7bce-21ec-49a8-947b-7ede557a7dc1","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"I'm thirsty","lexical":"i'm thirsty","confidence":"0.6505598","properties":{"HIGHCONF":"1"}}]}
