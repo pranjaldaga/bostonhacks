@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"birthday","lexical":"birthday","properties":{"requestid":"25ff9756-0710-407c-a8ab-3ca5533948bb","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"birthday","lexical":"birthday","confidence":"0.1678834","properties":{"LOWCONF":"1"}}]}

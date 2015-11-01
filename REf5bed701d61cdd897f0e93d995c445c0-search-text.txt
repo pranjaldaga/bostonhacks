@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"I'm at the","lexical":"i'm at the","properties":{"requestid":"fccd058b-a4d3-42ce-929e-003c8e443dc0","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"I'm at the","lexical":"i'm at the","confidence":"0.3662375","properties":{"LOWCONF":"1"}}]}

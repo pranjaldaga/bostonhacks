@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"my stomach hurt","lexical":"my stomach hurt","properties":{"requestid":"b16f38e6-796d-421a-b148-28172a98f925","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"my stomach hurt","lexical":"my stomach hurt","confidence":"0.8392895","properties":{"HIGHCONF":"1"}}]}

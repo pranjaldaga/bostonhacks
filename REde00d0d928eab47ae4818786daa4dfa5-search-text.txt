@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"sonic","lexical":"sonic","properties":{"requestid":"33c74160-3d81-4a30-8d83-2cb509e1d84b","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"sonic","lexical":"sonic","confidence":"0.1345801","properties":{"LOWCONF":"1"}}]}

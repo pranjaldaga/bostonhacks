@@ -73,10 +73,11 @@ get '/hello-monkey/handle-record' do
 		print "\n\nWebMDParser called " + str
 		r.Say 'Web MD Parser called.'
 
+
 		file = File.read('webmd.txt')
 		conditions = JSON.parse(file)
 
-
+    #    r.Say 'Something here'
 	#		print "i:" + j.to_s
 	#		Twilio::TwiML::Response.new do |r|
 	#			r.Gather :numDigits => '1', :action => '/hello-monkey/handle-gather', :method => 'get' do |g|
@@ -87,8 +88,7 @@ get '/hello-monkey/handle-record' do
 
 
 		#str = 'python bingGRAG.py "' + File.read(file).split('"')[1] + ' site:mayoclinic.com"'
-		#print str
-	    #`#{str}`
+	    #{}`#{str}`
 
 		#file = File.read('bingResults.txt')
 		#print file
@@ -100,8 +100,14 @@ get '/hello-monkey/handle-record' do
 
 		#results = File.read('summaryResults.txt')
 
+		r.Say 'You might have'
 		r.Say conditions[0]
-
-	    r.Say 'Goodbye.'
+		r.Say conditions[1]
+		r.Say "Huh"
+		print "This is condition 1"
+		#print conditions[1].to_s
+		#r.Say "This is charactarized as"
+		#r.Say conditions[1]
+	#    r.Say 'Goodbye.'
 	end.text
 end

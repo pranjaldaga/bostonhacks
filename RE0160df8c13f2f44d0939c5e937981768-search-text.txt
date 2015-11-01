@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"urlacher","lexical":"urlacher","properties":{"requestid":"23dd6e77-3fae-4b6e-bf08-ce933ca86c99","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"urlacher","lexical":"urlacher","confidence":"0.1584014","properties":{"LOWCONF":"1"}}]}

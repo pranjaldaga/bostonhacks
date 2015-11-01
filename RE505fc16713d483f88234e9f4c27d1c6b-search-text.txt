@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"liquor","lexical":"liquor","properties":{"requestid":"1ed2307b-5ac5-434b-8106-51141969d9dc","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"liquor","lexical":"liquor","confidence":"0.2838885","properties":{"LOWCONF":"1"}}]}

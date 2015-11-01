@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"stomach pain","lexical":"stomach pain","properties":{"requestid":"fa85cc5f-c7ce-4659-aed6-d6efe955a3c4","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"stomach pain","lexical":"stomach pain","confidence":"0.5581065","properties":{"HIGHCONF":"1"}}]}

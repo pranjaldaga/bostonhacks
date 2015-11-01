@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"stomach hurt","lexical":"stomach hurt","properties":{"requestid":"20ec08b5-afca-4e32-9bc2-68778e80d91b","MIDCONF":"1"}},"results":[{"scenario":"ulm","name":"stomach hurt","lexical":"stomach hurt","confidence":"0.468892","properties":{"MIDCONF":"1"}}]}

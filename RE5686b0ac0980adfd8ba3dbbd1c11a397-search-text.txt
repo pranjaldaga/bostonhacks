@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"I miss her","lexical":"i miss her","properties":{"requestid":"efef573e-d486-4cb6-9b3d-dd7857d10789","HIGHCONF":"1"}},"results":[{"scenario":"ulm","name":"I miss her","lexical":"i miss her","confidence":"0.5585356","properties":{"HIGHCONF":"1"}}]}

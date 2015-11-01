@@ -20,11 +20,13 @@ def parse(url, fileout):
            'Accept-Encoding': 'none',
            'Accept-Language': 'en-US,en;q=0.8',
            'Connection': 'keep-alive'}
+
     req = urllib2.Request(url, headers=hdr)
-
     page =urllib2.urlopen(req)
+    print "DATA FUCKING IS!!!"
     data=page.readline()
-
+    with open("FUKC.txt") as outfile:
+		outfile.write(str(repr(data)))
     returning=[]
     currentLine=0
     while "results_list" not in data[currentLine]:

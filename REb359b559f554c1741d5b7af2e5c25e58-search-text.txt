@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"my stomach","lexical":"my stomach","properties":{"requestid":"f1516d56-cdb8-445c-bf26-40a2cccb6b6e","MIDCONF":"1"}},"results":[{"scenario":"ulm","name":"my stomach","lexical":"my stomach","confidence":"0.5133651","properties":{"MIDCONF":"1"}}]}
