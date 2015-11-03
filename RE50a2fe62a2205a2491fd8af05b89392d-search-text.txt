@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"re book name","lexical":"re book name","properties":{"requestid":"ae01a9e3-9f26-4fae-b2c8-5d423e263998","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"re book name","lexical":"re book name","confidence":"0.3733752","properties":{"LOWCONF":"1"}}]}

@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"hotel","lexical":"hotel","properties":{"requestid":"c70dbc70-ee07-42a7-a4e6-4541e6ef28b3","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"hotel","lexical":"hotel","confidence":"0.1065894","properties":{"LOWCONF":"1"}}]}

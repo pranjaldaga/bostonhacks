@@ -61,7 +61,6 @@ get '/hello-monkey/handle-record' do
 
 		file = File.read('bingResults.txt')
 		print "\n\nDiagnoses are " + file
-		r.Say 'Diagnoses fetched.'
 
 
 
@@ -71,7 +70,6 @@ get '/hello-monkey/handle-record' do
 		str = 'python webMDParser.py ' + diagnoses[0] + ' webmd.txt'
 		`#{str}`
 		print "\n\nWebMDParser called " + str
-		r.Say 'Web MD Parser called.'
 
 
 		file = File.read('webmd.txt')
@@ -86,14 +84,15 @@ get '/hello-monkey/handle-record' do
 	#		end.text
 	#	end
 
+		str = 'python bingGRAG.py "' + file.split('"')[1] + ' site:mayoclinic.com"'
+	    `#{str}`
 
-		#str = 'python bingGRAG.py "' + File.read(file).split('"')[1] + ' site:mayoclinic.com"'
-	    #{}`#{str}`
-
-		#file = File.read('bingResults.txt')
+		file = File.read('bingResults.txt')
 		#print file
 
-
+		str = 'python stripping2.py ' + file
+	    `#{str}`
+        str= File.read("mayoArticle.txt")
 		#str = 'python Summarizer.py ' + File.read(file)
 		#print str
 		#{}`#{str}`
@@ -103,6 +102,7 @@ get '/hello-monkey/handle-record' do
 		r.Say 'You might have'
 		r.Say conditions[0]
 		r.Say conditions[1]
+		r.Say str
 		r.Say "Huh"
 		print "This is condition 1"
 		#print conditions[1].to_s

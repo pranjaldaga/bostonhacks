@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"tell them","lexical":"tell them","properties":{"requestid":"69b3bcf3-2474-4cf2-9f6f-ebce889d2047","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"tell them","lexical":"tell them","confidence":"0.2045419","properties":{"LOWCONF":"1"}}]}

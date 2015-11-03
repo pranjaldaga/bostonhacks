@@ -1,1 +1,1 @@
-"http://symptomchecker.webmd.com/multiple-symptoms?symptoms=body-aches-or-pains|fatigue|joint-aches|joint-pain&symptomids=43|98|8|279&locations=66|66|66|30" 
+"http://www.mayoclinic.com/health/skin-rash/SN00016&slide=3" 

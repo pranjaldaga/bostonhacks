@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"chest","lexical":"chest","properties":{"requestid":"105e8671-4724-4b47-a6ea-62856ecff671","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"chest","lexical":"chest","confidence":"0.149248","properties":{"LOWCONF":"1"}}]}

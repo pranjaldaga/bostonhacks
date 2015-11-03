@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"a stomach ache","lexical":"a stomach ache","properties":{"requestid":"4f46e1d2-9033-4197-9fd7-bf31cfd40e96","MIDCONF":"1"}},"results":[{"scenario":"ulm","name":"a stomach ache","lexical":"a stomach ache","confidence":"0.4641786","properties":{"MIDCONF":"1"}}]}

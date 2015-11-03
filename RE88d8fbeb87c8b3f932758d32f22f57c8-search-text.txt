@@ -1,0 +1,1 @@
+{"version":"3.0","header":{"status":"success","scenario":"ulm","name":"play for the pacers","lexical":"play for the pacers","properties":{"requestid":"9a83df08-5e0c-43a1-9895-4ed22bc4f74c","LOWCONF":"1"}},"results":[{"scenario":"ulm","name":"play for the pacers","lexical":"play for the pacers","confidence":"0.345377","properties":{"LOWCONF":"1"}}]}
