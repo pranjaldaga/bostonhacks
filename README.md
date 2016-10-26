@@ -1,6 +1,6 @@
 Boston Hacks
 ============
- * **Authors:** John Ward, Pranjal Daga, Suyash Gupta, Evan DeSantola
+ ## **Authors:** John Ward, Pranjal Daga, Suyash Gupta, Evan DeSantola
  * **The Idea:** 60% of the world doesn't have Internet, but 80% do have phones. Take advantage of existing resources to transmit critical information.
  * **Goal:** To provide medical advice without Internet.
  * **How it works:** Call our system with any phone, speak your symptoms, and the system will determine your diagnosis and suggest treatment.
